@@ -1,20 +1,3 @@
-# 🩺 Patient Heart Rate Monitoring API (NestJS)
-
-This project is a backend service built with **NestJS** to manage patients and their heart rate readings. It provides endpoints to fetch high heart rate events, perform analytics, and track how often each patient's data is requested.
-
----
-
-## 📋 Assignment Overview
-
-**Goal**: Design and implement a backend system with clean architecture that:
-
-- Handles patient heart rate data from a mock JSON file.
-- Computes high heart rate events.
-- Performs heart rate analytics within time ranges.
-- Tracks the number of times a patient’s data is requested.
-
----
-
 ## 🚀 Features
 
 ### 1. High Heart Rate Events
