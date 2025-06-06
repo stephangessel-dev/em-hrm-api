@@ -1,0 +1,111 @@
+{
+  "patients": [
+    {
+      "id": "1",
+      "name": "Alice Johnson",
+      "age": 34,
+      "gender": "female"
+    },
+    {
+      "id": "2",
+      "name": "Bob Smith",
+      "age": 45,
+      "gender": "male"
+    },
+    {
+      "id": "3",
+      "name": "Catherine Lee",
+      "age": 29,
+      "gender": "female"
+    },
+    {
+      "id": "4",
+      "name": "Daniel Martinez",
+      "age": 52,
+      "gender": "male"
+    },
+    {
+      "id": "5",
+      "name": "Eva Green",
+      "age": 40,
+      "gender": "female"
+    }
+  ],
+  "heartRateReadings": [
+    {
+      "patientId": "1",
+      "timestamp": "2024-03-01T08:00:00Z",
+      "heartRate": 107
+    },
+    {
+      "patientId": "1",
+      "timestamp": "2024-03-01T10:30:00Z",
+      "heartRate": 101
+    },
+    {
+      "patientId": "1",
+      "timestamp": "2024-03-01T13:45:00Z",
+      "heartRate": 133
+    },
+    {
+      "patientId": "2",
+      "timestamp": "2024-03-02T09:15:00Z",
+      "heartRate": 144
+    },
+    {
+      "patientId": "2",
+      "timestamp": "2024-03-02T11:00:00Z",
+      "heartRate": 105
+    },
+    {
+      "patientId": "2",
+      "timestamp": "2024-03-02T14:20:00Z",
+      "heartRate": 93
+    },
+    {
+      "patientId": "3",
+      "timestamp": "2024-03-03T07:45:00Z",
+      "heartRate": 72
+    },
+    {
+      "patientId": "3",
+      "timestamp": "2024-03-03T12:00:00Z",
+      "heartRate": 110
+    },
+    {
+      "patientId": "3",
+      "timestamp": "2024-03-03T18:30:00Z",
+      "heartRate": 98
+    },
+    {
+      "patientId": "4",
+      "timestamp": "2024-03-04T06:30:00Z",
+      "heartRate": 67
+    },
+    {
+      "patientId": "4",
+      "timestamp": "2024-03-04T09:45:00Z",
+      "heartRate": 92
+    },
+    {
+      "patientId": "4",
+      "timestamp": "2024-03-04T15:15:00Z",
+      "heartRate": 130
+    },
+    {
+      "patientId": "5",
+      "timestamp": "2024-03-05T10:00:00Z",
+      "heartRate": 90
+    },
+    {
+      "patientId": "5",
+      "timestamp": "2024-03-05T13:30:00Z",
+      "heartRate": 85
+    },
+    {
+      "patientId": "5",
+      "timestamp": "2024-03-05T16:45:00Z",
+      "heartRate": 100
+    }
+  ]
+}
