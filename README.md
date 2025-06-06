@@ -4,7 +4,6 @@
 
 - **Endpoint**: `GET api/patient/high-rate-events?threshold=100`
 - **Description**: Lists all events where a patient's heart rate exceeded 100 bpm.
-- **Request Count Tracking**: Internally increments request count per patient for these events.
 
 ---
 
